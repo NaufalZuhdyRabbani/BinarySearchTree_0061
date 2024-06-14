@@ -118,7 +118,7 @@ int main()
 {
     BinaryTree x;
     while (true)
-    {
+    { 
         cout << "\nMenu" << endl;
         cout << "1.implement insert operation" << endl;
         cout << "2.perform inorder traversal" << endl;
