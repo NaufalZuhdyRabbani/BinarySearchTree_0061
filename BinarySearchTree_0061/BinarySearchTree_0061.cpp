@@ -98,7 +98,7 @@ public:
         }
     }
 
-    void closeorder(Node* ptr)
+    void closeorder(Node* ptr) 
     {
         if (ROOT == NULL)
         {
