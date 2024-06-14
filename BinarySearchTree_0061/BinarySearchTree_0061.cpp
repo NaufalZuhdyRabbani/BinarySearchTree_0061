@@ -112,7 +112,7 @@ public:
             cout << ptr->info << " "; //ROOT
         }
     }
-};
+}; 
 
 int main()
 {
